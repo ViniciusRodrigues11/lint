@@ -1,0 +1,12 @@
+{
+  "name": "@vini/lint",
+  "version": "0.0.1",
+  "description": "A lib to extend eslint rules",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "url": "ViniciusRodrigues11/lint"
+  },
+  "keywords": [],
+  "author": ""
+}
